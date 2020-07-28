@@ -1,3 +1,3 @@
-module github.com/huangjc7/strutil
+module github.com/huangjc7/task
 
 go 1.13
